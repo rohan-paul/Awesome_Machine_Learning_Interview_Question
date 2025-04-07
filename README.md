@@ -4,13 +4,13 @@
 
 ## If you found it useful, [dont forget to subscribe](https://www.rohan-paul.com/s/daily-ai-newsletter/archive?sort=new).
 
--------------
 
 ## 📚 Adding A Significant number of NEW questions-solutions every 24 HOURS: Stay Tuned
 
-## [Find me in Twitter](https://twitter.com/rohanpaul_ai)
 
-## [📚 I write daily for my 112K+ readers on actionable AI developments. Get a 1300+ page Python book as soon as you subscribing (its FREE) ↓↓)](https://www.rohan-paul.com/s/daily-ai-newsletter/archive?sort=new)
+# 𝕏  [Find me in Twitter](https://twitter.com/rohanpaul_ai)
+
+## [🗞️ I write daily for my 112K+ readers on actionable AI developments. Get a 1300+ page Python book as soon as you subscribing (its FREE) ↓↓)](https://www.rohan-paul.com/s/daily-ai-newsletter/archive?sort=new)
 
 [logo]: https://github.com/rohan-paul/rohan-paul/blob/master/assets/newsletter_rohan.png
 
