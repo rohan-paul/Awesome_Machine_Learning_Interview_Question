@@ -1,6 +1,6 @@
 # 🎉 WORLD'S MOST COMPREHENSIVE RESOURCE FOR MACHINE LEARNING INTERVIEW QUESTIONS
 
-## For each find the [most detailed and analytical answer and solutions in my Newsletter](https://www.rohan-paul.com/s/ml-interview-series/archive?sort=new)
+## For each find the [most detailed and analytical solutions in my Newsletter](https://www.rohan-paul.com/s/ml-interview-series/archive?sort=new)
 
 ## If you found it useful, [dont forget to subscribe](https://www.rohan-paul.com/s/daily-ai-newsletter/archive?sort=new).
 
