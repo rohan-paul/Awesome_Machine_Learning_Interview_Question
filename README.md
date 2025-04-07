@@ -2,7 +2,7 @@
 
 ## For each find the [most detailed and analytical solutions in my Newsletter](https://www.rohan-paul.com/s/ml-interview-series/archive?sort=new)
 
-## If you found it useful, [consider subscribing to my AI Newsletter and putting a star to this Repo 🙏](https://www.rohan-paul.com/s/daily-ai-newsletter/archive?sort=new).
+## If you found it useful, [consider subscribing to my AI Newsletter and giving a star to this Repo 🙏](https://www.rohan-paul.com/s/daily-ai-newsletter/archive?sort=new).
 
 
 ## 📚 Adding A Significant number of NEW questions-solutions every 24 HOURS: Stay Tuned
