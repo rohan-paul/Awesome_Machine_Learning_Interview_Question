@@ -15,7 +15,6 @@
 
 [![Rohan's Newsletter][logo]](https://www.rohan-paul.com/) &nbsp;
 
-
 ## Anomaly_Detection
 - [How can one reduce the effects of Swamping and Masking when using Isolation Forest for anomaly detection?](https://www.rohan-paul.com/p/ml-interview-q-series-how-can-one-080)
 - [Could you describe the core concept of the Isolation Forest algorithm, highlight its benefits for outlier detection, and explain the process of applying it to identify anomalies in data?](https://www.rohan-paul.com/p/ml-interview-q-series-describe-the)
@@ -378,12 +377,6 @@
 - [How do Region-Based CNN (R-CNN), Fast R-CNN, and Faster R-CNN differ from each other?](https://www.rohan-paul.com/p/ml-interview-q-series-how-do-region)
 - [In what ways do deep neural networks overcome or alleviate the problems typically referred to as the "curse of…](https://www.rohan-paul.com/p/ml-interview-q-series-in-what-ways-fb6)
 - [How can we apply Ensemble Techniques in conjunction with deep neural networks to enhance model performance and…](https://www.rohan-paul.com/p/ml-interview-q-series-how-can-we-d8a)
-- [Why do we refer to Logistic Regression as a regression method rather than a classification technique?](https://www.rohan-paul.com/p/ml-interview-q-series-why-do-we-refer)
-- [What makes the binary cross-entropy loss used in logistic regression convex in its parameters?](https://www.rohan-paul.com/p/ml-interview-q-series-what-makes)
-- [How would you apply logistic regression, under the umbrella of supervised learning, to perform classification tasks?](https://www.rohan-paul.com/p/ml-interview-q-series-how-would-you-126)
-- [How do the Softmax function and the Sigmoid function differ from each other?](https://www.rohan-paul.com/p/ml-interview-q-series-how-do-the-21e)
-- [In what way do we carry out the training process for a Logistic Regression model?](https://www.rohan-paul.com/p/ml-interview-q-series-in-what-way-6e2)
-- [Why is it not appropriate to use a linear regression model in place of logistic regression for classification tasks?](https://www.rohan-paul.com/p/ml-interview-q-series-why-is-it-not)
 - [Why is Logistic Regression frequently referred to as a linear model?](https://www.rohan-paul.com/p/ml-interview-q-series-why-is-logistic)
 - [How can we arrive at a mathematical understanding of how Logistic Regression works?](https://www.rohan-paul.com/p/ml-interview-q-series-how-can-we-314)
 - [Which techniques can help minimize overfitting in a logistic regression model?](https://www.rohan-paul.com/p/ml-interview-q-series-which-techniques)
@@ -501,3 +494,15 @@
 - [How do ensemble-based methods support incremental learning over time?](https://www.rohan-paul.com/p/ml-interview-q-series-how-do-ensemble-c10)
 - [How is a Super Learner ensemble framework structured, and what are its main building blocks?](https://www.rohan-paul.com/p/ml-interview-q-series-how-is-a-super)
 - [In which cases might you choose not to apply ensemble methods for classification tasks?](https://www.rohan-paul.com/p/ml-interview-q-series-in-which-cases)
+- [Projecting LDA Centroids Below K-1 Dimensions Using Eigendecomposition](https://www.rohan-paul.com/p/ml-interview-q-series-projecting)
+- [Demystifying Logistic Regression Coefficients: Understanding Log-Odds and Odds Ratios](https://www.rohan-paul.com/p/ml-interview-q-series-demystifying)
+- [Logistic Regression Coefficients via Maximum Likelihood Estimation.](https://www.rohan-paul.com/p/ml-interview-q-series-logistic-regression)
+- [Geometric Probability: Forming a Triangle from Random Stick Breaks](https://www.rohan-paul.com/p/ml-interview-q-series-geometric-probability)
+- [Gaussian Mixture Models for Fraudulent Transaction Anomaly Detection](https://www.rohan-paul.com/p/ml-interview-q-series-gaussian-mixture)
+- [What differentiates homoskedastic from heteroskedastic residuals, how to detect and address measurement error-induced…](https://www.rohan-paul.com/p/ml-interview-q-series-what-differentiates-4b2)
+- [Why do we refer to Logistic Regression as a regression method rather than a classification technique?](https://www.rohan-paul.com/p/ml-interview-q-series-why-do-we-refer)
+- [What makes the binary cross-entropy loss used in logistic regression convex in its parameters?](https://www.rohan-paul.com/p/ml-interview-q-series-what-makes)
+- [How would you apply logistic regression, under the umbrella of supervised learning, to perform classification tasks?](https://www.rohan-paul.com/p/ml-interview-q-series-how-would-you-126)
+- [How do the Softmax function and the Sigmoid function differ from each other?](https://www.rohan-paul.com/p/ml-interview-q-series-how-do-the-21e)
+- [In what way do we carry out the training process for a Logistic Regression model?](https://www.rohan-paul.com/p/ml-interview-q-series-in-what-way-6e2)
+- [Why is it not appropriate to use a linear regression model in place of logistic regression for classification tasks?](https://www.rohan-paul.com/p/ml-interview-q-series-why-is-it-not)
