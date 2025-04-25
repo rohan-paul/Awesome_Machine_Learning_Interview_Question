@@ -506,3 +506,5 @@
 - [How do the Softmax function and the Sigmoid function differ from each other?](https://www.rohan-paul.com/p/ml-interview-q-series-how-do-the-21e)
 - [In what way do we carry out the training process for a Logistic Regression model?](https://www.rohan-paul.com/p/ml-interview-q-series-in-what-way-6e2)
 - [Why is it not appropriate to use a linear regression model in place of logistic regression for classification tasks?](https://www.rohan-paul.com/p/ml-interview-q-series-why-is-it-not)
+- [K-Means Centroid Updates Using Batch and Stochastic Gradient Descent.](https://www.rohan-paul.com/p/ml-interview-q-series-k-means-centroid)
+- [Objective Function Derivation for Linear Regression Under Gaussian Input Noise](https://www.rohan-paul.com/p/ml-interview-q-series-objective-function)
