@@ -613,7 +613,7 @@
 - [How would you analyze whether Netflix’s subscription cost is genuinely the primary factor influencing a consumer’s…](https://www.rohan-paul.com/p/ml-interview-q-series-how-would-you-ebe)
 - [In what way would you set up a model to predict the most effective point in a video for placing a commercial break?](https://www.rohan-paul.com/p/ml-interview-q-series-in-what-way-9d7)
 - [How can one devise an ML-driven solution that automatically curates a user-specific weekly playlist, similar to…](https://www.rohan-paul.com/p/ml-interview-q-series-how-can-one-dfd)
-- [ML Interview Q Series:Imagine you're working at a rideshare company like Lyft & you plan to test 3 different cancellation fees—$1,$3 …](https://www.rohan-paul.com/p/ml-interview-q-seriesimagine-youre)
+- [Imagine you're working at a rideshare company like Lyft & you plan to test 3 different cancellation fees. How would you determine which fee is the best choice to adopt?](https://www.rohan-paul.com/p/ml-interview-q-seriesimagine-youre)
 - [Imagine you are a Product Data Scientist at Instagram aiming to gauge how well Instagram TV is doing. What metrics…](https://www.rohan-paul.com/p/ml-interview-q-series-imagine-you)
 - [How might one design a real-time type-ahead recommendation system for Netflix as users start typing their queries?](https://www.rohan-paul.com/p/ml-interview-q-series-how-might-one)
 - [Which loss function does k-means minimize, and what are the centroid update formulas for batch and SGD?](https://www.rohan-paul.com/p/ml-interview-q-series-which-loss)
